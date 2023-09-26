@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/0234ea4c-1e42-4a54-b920-cc1c81315f14/resourceGroups/capstone_closet/providers/Microsoft.Web/sites/En-Ligne-Armoire",
+    "appService.deploySubpath": "node-app"
+}
